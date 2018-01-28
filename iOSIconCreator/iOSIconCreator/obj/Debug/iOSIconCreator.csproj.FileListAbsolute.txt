@@ -1,0 +1,10 @@
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\bin\Debug\iOSIconCreator.exe.config
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\bin\Debug\iOSIconCreator.exe
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\bin\Debug\iOSIconCreator.pdb
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\obj\Debug\iOSIconCreator.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\obj\Debug\iOSIconCreator.Form1.resources
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\obj\Debug\iOSIconCreator.Properties.Resources.resources
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\obj\Debug\iOSIconCreator.csproj.GenerateResource.Cache
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\obj\Debug\iOSIconCreator.csproj.CoreCompileInputs.cache
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\obj\Debug\iOSIconCreator.exe
+C:\Users\dinoz\Desktop\iOSIconCreator\iOSIconCreator\obj\Debug\iOSIconCreator.pdb
